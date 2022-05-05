@@ -6,7 +6,6 @@ function createWindow() {
 	win = new BrowserWindow({
 		show: false,
 		icon: iconPath,
-		frame: false,
 		webPreferences: {
 			nodeIntegration: true,
 		},
