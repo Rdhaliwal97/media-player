@@ -1,0 +1,19 @@
+:root {
+	--main-grid-rows: 30px 1fr 90px;
+	--main-grid-cols: 50px 1fr 75px;
+	--main-grid-areas: 'sidebar titlebar titlebar' 'sidebar mainPanel mainPanel' 'playerArea playerArea playerArea';
+	--sidebar-bgc: #f2f2f2;
+	--sidebarIcons-fill: #000;
+	--main-bgc: #fff;
+	--playerArea-bgc: #464d57;
+	--song-color: #000;
+	--titlebar-bgc: #fff;
+	--song-odd-bgc: #f2f2f2;
+	--song-even-bgc: #fff;
+	--song-hover-bgc: #d9d9d9;
+	--song-active-color: #515c6b;
+	--windowControlButton-bgc: #0000;
+	--windowControlButton-hover-bgc: #d9d9d9;
+	--scrollbar-color: #d6cbcb;
+	--scrollbar-hover-color: #cfcccc;
+}
